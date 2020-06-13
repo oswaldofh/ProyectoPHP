@@ -1,0 +1,10 @@
+body 
+{
+    background: url(../Imagen/IndexImagen.jpg);
+    background-size:  100%;
+    background-repeat: unset;
+    min-height: 1000%;
+    background-position-x: 50%;
+    background-position-y: 13%;
+    
+}

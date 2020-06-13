@@ -1,0 +1,42 @@
+body 
+{
+    background: url(../Imagen/IndexImagen.jpg);
+    background-size:  100%;
+    background-repeat: no-repeat;
+    min-height: 1000%;
+    background-position-x: 50%;
+    background-position-y: 13%;
+    opacity: 0.8;
+    
+}
+
+.alert
+{
+   position: relative;
+   left: 8%; 
+} 
+
+.nav-item
+{
+    margin-left: 10px;
+}
+
+#Notificacion
+{
+  position: relative;
+   left: 7%;
+   top: 0px;
+}
+
+
+#Campana
+{
+   color:red;
+}
+
+
+#Empleados
+{
+  width: 206px;
+  height: 200px;
+}

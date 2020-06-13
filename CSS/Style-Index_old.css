@@ -1,0 +1,21 @@
+body 
+{
+    background: url(../Imagen/IndexImagen.jpg);
+    background-size:  100%;
+    background-repeat: no-repeat;
+    min-height: 1000%;
+    background-position-x: 50%;
+    background-position-y: 13%;
+    opacity: 0.8;
+    
+}
+
+.alert
+{
+  left: 200px; 
+}
+
+.nav-item
+{
+    margin-left: 20px;
+}

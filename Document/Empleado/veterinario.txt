@@ -1,0 +1,29 @@
+RF020 MASCOTA
+-nombre
+-raza
+-fecha nacimiento
+-criadero
+
+RF-024ELIMINAR MASCOTA
+-cuando se elimina el propietario
+
+
+RF053 REGISTRAR SERVICIO LABORATORIO
+-registro servicios laboratorio o imagenologia
+codigo servicio
+nombre
+descripcion
+actividades
+personal a cargo
+instrumentos
+productos
+
+RF060 REGISTRAR RESULTADOS SERVICIO PRESTADO
+numero id
+
+
+RF037 CREAR HISTORIA CLINICA
+-datos propietario(documento, nombre, telefono)
+-datos mascota () talla, peso
+-anamnesis(vacunas, alergias, motivo consulta, sintomatologia) 
+-registro atencion(diagnostico, tratamiento, recomendaciones)
